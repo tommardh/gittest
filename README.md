@@ -28,6 +28,20 @@ seventh change
 
 `git push`
 
+5) Rebase from master (be on new branch)
+
+`git rebase master`
+
+6) Push local updates to remote branch
+
+`git puch --force`
+
+**Note:** Works only if you know that noone else has worked on the branch
+
+Sources:
+
+- https://jeffkreeftmeijer.com/git-rebase/ 
+- https://stackoverflow.com/questions/56125354/git-push-after-rebase
 
 ### How to move unpushed committed changes on master to a new branch
 
