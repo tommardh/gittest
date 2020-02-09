@@ -10,6 +10,25 @@ seventh change
 
 ## Learnings
 
+### Create a new branch, push and rebase changes in main branch to new branch
+
+1) Create a new branch
+
+`git branch rebasetest`
+
+2) Switch to new branch
+
+`git checkout rebasetest`
+
+3) Push local changes first time
+
+`git push -u origin rebasetest`
+
+4) Push next time
+
+`git push`
+
+
 ### How to move unpushed committed changes on master to a new branch
 
 1) Create new branch with your changes.
