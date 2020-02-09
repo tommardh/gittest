@@ -45,6 +45,16 @@ Sources:
 - https://jeffkreeftmeijer.com/git-rebase/ 
 - https://stackoverflow.com/questions/56125354/git-push-after-rebase
 
+### Merge back to master
+
+1) Go back to master branch
+
+`git checkout master`
+
+2) Merge from branch
+
+`git merge mybranch`
+
 ### How to move unpushed committed changes on master to a new branch
 
 1) Create new branch with your changes.
