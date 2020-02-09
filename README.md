@@ -8,7 +8,9 @@ fifth change
 sixth change
 seventh change
 
-## Learning
+## Learnings
+
+### How to move unpushed committed changes on master to a new branch
 
 1) Create new branch with your changes.
 
