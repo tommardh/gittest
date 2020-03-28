@@ -36,7 +36,7 @@ seventh change
 
 6) Push local updates to remote branch
 
-`git puch --force`
+`git push --force`
 
 **Note:** Works only if you know that noone else has worked on the branch
 
